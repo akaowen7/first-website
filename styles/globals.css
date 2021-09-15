@@ -1,7 +1,4 @@
-html,
 body {
-  padding: 0;
-  margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
@@ -11,5 +8,7 @@ html *:not(head *):not(script):not(style) {
 }
 
 * {
+  padding: 0;
+  margin: 0;
   box-sizing: border-box;
 }
