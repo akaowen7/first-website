@@ -16,7 +16,12 @@ export default function Home() {
           <h1>Reid Tull</h1>
           <p>Entrepreneur, boob enthusiast and hometown clown. If you want my number ask your mom. he/him</p>
         </div>
-        <div className={styles.buttons}><Button /></div>
+        <div className={styles.buttons}>
+          <Button background="red"/>
+          <Button background="blue"/>
+          <Button background="yellow"/>
+          <Button background="blue"/>
+        </div>
       </main>
     </div>
   )
