@@ -17,7 +17,7 @@ export default function Home() {
           <p>Entrepreneur, boob enthusiast and hometown clown. If you want my number ask your mom. he/him</p>
         </div>
         <div className={styles.buttons}>
-          <Button background="red"/>
+          <Button background="red" text="Snapchat!"/>
           <Button background="blue"/>
           <Button background="yellow"/>
           <Button background="blue"/>
