@@ -10,22 +10,29 @@
 }
 
 .title h1 {
-  font-size: 5em;
-  color: #f3e;
+  text-align: right;
+  font-weight: 500;
+  font-size: 8em;
+  color: rgb(226, 226, 226);
   justify-content: right;
 }
 
 .title p {
+  font-weight: 200;
+  font-size: 2em;
+  color: rgb(171, 171, 171);
   justify-content: right;
   text-align: right;
 }
 
 .title {
-  max-width: 70ch;
+  max-width: 89ch;
   flex: 1;
   align-self: center;
   justify-self: center;
   flex-direction: column;
+  margin: 2.5em 7.5em;
+  margin-right: 5vw;
 }
 
 .buttons {
