@@ -2,4 +2,30 @@
 }
 
 .main {
+  flex-direction: row-reverse;
+  width: 100vw;
+  height: 100vh;
+}
+
+.title h1 {
+  font-size: 5em;
+  color: #f3e;
+  justify-content: right;
+}
+
+.title p {
+  justify-content: right;
+  text-align: right;
+}
+
+.title {
+  max-width: 70ch;
+  flex: 1;
+  align-self: center;
+  justify-self: center;
+  flex-direction: column;
+}
+
+.buttons {
+  flex: 1;
 }
