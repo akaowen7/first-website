@@ -3,8 +3,10 @@ import styles from '../styles/Button.module.css'
 import { motion } from '../node_modules/framer-motion';
 
 const Button = (props) => {
-    const { background, text } = props
-    return <motion.div 
+    const { background, text, link } = props
+    return <motion.a 
+    href={link}
+    target="_blank"
     style={{background: background}} 
     className={styles.button} 
     whileHover={{ 
@@ -12,7 +14,7 @@ const Button = (props) => {
         
     }}>
         {text}
-    </motion.div>
+    </motion.a>
 }
 
 export default Button;
