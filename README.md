@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Just a simple website that I made, with the help of [Emilion](https://edgie.emilien.ca/), to teach myself how use Next.js and React.js
 
-## if you want to use this for some reason
+## If you want to use this for some reason
 
 You can start by running the dev sever like this:
 
