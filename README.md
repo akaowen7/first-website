@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## What is ths?
+## What is this?
 
 Just a simple website that I made, with the help of [Emilion](https://edgie.emilien.ca/), to teach myself how use Next.js and React.js
 

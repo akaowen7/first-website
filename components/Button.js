@@ -10,8 +10,7 @@ const Button = (props) => {
     style={{background: background}} 
     className={styles.button} 
     whileHover={{ 
-        x: -15,
-        
+        x: 25,    
     }}>
         {text}
     </motion.a>

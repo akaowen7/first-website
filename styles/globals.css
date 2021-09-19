@@ -12,3 +12,15 @@ html *:not(head *):not(script):not(style) {
   margin: 0;
   box-sizing: border-box;
 }
+
+h1 {
+  font-weight: 500;
+  font-size: 8em;
+  color: rgb(226, 226, 226);
+}
+
+p {
+  font-weight: 200;
+  font-size: 2em;
+  color: rgb(171, 171, 171);
+}

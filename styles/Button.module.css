@@ -3,7 +3,16 @@
   font-weight: 400;
   font-size: 2em;
   padding: 0.6em 3em;
-  padding-left: 27vw;
+  padding-left: 32vw;
   margin: 0.5em 0;
   text-decoration: none;
+  margin-left: -5em;
+  justify-content: right;
+}
+
+@media screen and (max-aspect-ratio: 1/1) {
+  .button {
+    font-size: 1.7em;
+    padding-left: 60vw;
+  }
 }
