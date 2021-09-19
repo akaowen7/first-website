@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## What is this?
 
-Just a simple website that I made, with the help of [Emilion](https://edgie.emilien.ca/), to teach myself how use Next.js and React.js
+Just a simple website that I made, with the help of [Emilien](https://edgie.emilien.ca/), to teach myself how use Next.js and React.js
 
 ## If you want to use this for some reason
 
