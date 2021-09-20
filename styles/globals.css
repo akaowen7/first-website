@@ -15,12 +15,12 @@ html *:not(head *):not(script):not(style) {
 
 h1 {
   font-weight: 500;
-  font-size: 8em;
+  font-size: 7em;
   color: rgb(226, 226, 226);
 }
 
 p {
   font-weight: 200;
-  font-size: 2em;
-  color: rgb(171, 171, 171);
+  font-size: 1.75em;
+  color: rgb(214, 214, 214);
 }

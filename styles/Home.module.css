@@ -6,9 +6,10 @@
 .main {
   flex-direction: row-reverse;
   justify-content: space-between;
-  max-width: 100vw;
+  min-width: 100vw;
   min-height: 100vh;
   height: auto;
+  width: auto;
 }
 
 .title h1 {
