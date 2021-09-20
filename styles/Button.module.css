@@ -9,6 +9,7 @@
   margin-left: -5em;
   justify-content: right;
   cursor: pointer;
+  user-select: none;
 }
 
 @media screen and (max-aspect-ratio: 1/1) {
