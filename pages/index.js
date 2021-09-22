@@ -23,7 +23,7 @@ export default function Home() {
           <Button background="#FE5000" text="SoundCloud" link="https://soundcloud.com/user-237901012"/>
           <Button background="linear-gradient(90deg, rgba(252,176,69,1) 0%, rgba(253,29,29,1) 50%, rgba(131,58,180,1) 100%)" text="Instagram" link="https://www.instagram.com/blue_plain/"/>
           <Button background="#ff0050" text="TikTok" link="https://vm.tiktok.com/ZMJ3161xe/"/>
-          <Button background="#333" text="Github" link="https://github.com/akaowen7"/>
+          <Button background="#1f6feb" text="Github" link="https://github.com/akaowen7"/>
         </div>
       </main>
     </div>
