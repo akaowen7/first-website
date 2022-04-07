@@ -18,10 +18,10 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.title}>
           <h1>Skulls!</h1>
-          <p>I make YouTube videos, music, good twitter takes, and websites now I guess. I've donated to Wikipedia. Twice.</p>
+          <p>💀</p>
         </div>
         <div className={styles.buttons}>
-          <Button background="#FF0000" text="Youtube" link="https://www.youtube.com/channel/UC8ZvHJKfa1xhdMwB5k-7BLQ"/>
+          <Button background="#FF0000" text="YouTube" link="https://www.youtube.com/channel/UC8ZvHJKfa1xhdMwB5k-7BLQ"/>
           {/* <Button background="#1DA1F2" text="Twitter" link="https://twitter.com/not_akaowen"/> */}
           <Button background="#FE5000" text="SoundCloud" link="https://soundcloud.com/user-237901012"/>
           <Button background="linear-gradient(90deg, rgba(252,176,69,1) 0%, rgba(253,29,29,1) 50%, rgba(131,58,180,1) 100%)" text="Instagram" link="https://www.instagram.com/blue_plain/"/>
